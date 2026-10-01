@@ -1,0 +1,12 @@
+numpy>=1.26
+pandas>=2.2
+scipy>=1.14
+statsmodels>=0.14
+arch>=6.0
+cvxpy>=1.4
+scikit-learn>=1.5
+matplotlib>=3.7
+seaborn>=0.13
+massive
+pytest>=7.0
+quantStates>=0.0.81
